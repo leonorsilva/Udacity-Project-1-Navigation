@@ -59,5 +59,5 @@ Then, place the file in the `p1_navigation/` folder in the DRLND GitHub reposito
 ### Dependencies
 
 To install the necessary packages you can:
-  pip install -r /path/to/requi.txt
+    pip install -r /path/to/requi.txt
 after you download the files.
